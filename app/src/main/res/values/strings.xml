@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Constraint Layout App</string>
+    <string name="button_click_me">Click me!</string>
+    <string name="hello_textview">Hello!</string>
+    <string name="long_text_textview">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi. Ipsum suspendisse ultrices gravida dictum fusce ut placerat. Lobortis scelerisque fermentum dui faucibus in ornare quam viverra orci. Porttitor lacus luctus accumsan tortor posuere. Quis blandit turpis cursus in. Tristique et egestas quis ipsum suspendisse ultrices gravida dictum fusce. Nibh sit amet commodo nulla. Convallis tellus id interdum velit laoreet. Amet consectetur adipiscing elit pellentesque. Donec enim diam vulputate ut pharetra sit amet aliquam. Fames ac turpis egestas maecenas. Ipsum suspendisse ultrices gravida dictum fusce ut placerat orci. At lectus urna duis convallis convallis tellus id.
+
+Duis tristique sollicitudin nibh sit amet commodo nulla. Sit amet nulla facilisi morbi tempus iaculis urna. Pulvinar pellentesque habitant morbi tristique senectus. Felis bibendum ut tristique et egestas quis ipsum suspendisse. Massa enim nec dui nunc mattis enim. Proin fermentum leo vel orci porta non pulvinar. Ipsum suspendisse ultrices gravida dictum. Vehicula ipsum a arcu cursus vitae congue mauris rhoncus aenean. Facilisis leo vel fringilla est ullamcorper eget. Ac tincidunt vitae semper quis lectus nulla. Cursus sit amet dictum sit amet justo donec enim diam. Lacinia at quis risus sed vulputate odio.
+
+Massa massa ultricies mi quis hendrerit dolor magna eget. Nulla facilisi etiam dignissim diam quis enim lobortis. Morbi blandit cursus risus at ultrices mi tempus imperdiet nulla. Ornare massa eget egestas purus viverra accumsan in nisl. Fermentum iaculis eu non diam phasellus vestibulum lorem. Aenean et tortor at risus viverra. Bibendum ut tristique et egestas. Semper risus in hendrerit gravida rutrum quisque. Aliquam ut porttitor leo a. Ut diam quam nulla porttitor. Eget mi proin sed libero enim.
+
+Quis vel eros donec ac odio tempor. Tempor orci eu lobortis elementum nibh tellus molestie. Aliquam sem et tortor consequat id porta nibh venenatis. Amet volutpat consequat mauris nunc congue nisi vitae suscipit. Eget felis eget nunc lobortis mattis aliquam. Et odio pellentesque diam volutpat commodo sed. Mauris ultrices eros in cursus turpis massa tincidunt dui ut. Vitae et leo duis ut. Quis auctor elit sed vulputate mi. Interdum velit euismod in pellentesque massa. Enim ut sem viverra aliquet eget. Egestas sed sed risus pretium. Eros donec ac odio tempor. Adipiscing tristique risus nec feugiat. Lectus sit amet est placerat in egestas erat imperdiet sed. Adipiscing commodo elit at imperdiet dui accumsan sit amet nulla.
+
+Gravida in fermentum et sollicitudin ac orci phasellus. Venenatis lectus magna fringilla urna porttitor. Nibh mauris cursus mattis molestie a iaculis. Tincidunt nunc pulvinar sapien et. Lacinia quis vel eros donec ac. Enim eu turpis egestas pretium aenean. Praesent elementum facilisis leo vel fringilla est. In egestas erat imperdiet sed euismod nisi porta. Tempus urna et pharetra pharetra massa. Nunc id cursus metus aliquam. Sit amet mattis vulputate enim. Porttitor lacus luctus accumsan tortor posuere ac ut consequat. Enim lobortis scelerisque fermentum dui faucibus. Varius duis at consectetur lorem donec massa sapien. Risus commodo viverra maecenas accumsan. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Consequat interdum varius sit amet.</string>
+    <string name="checkbox_value">CheckBox</string>
+    <string-array name="messages">
+        <item>Apples</item>
+        <item>Bananas</item>
+        <item>Coconuts</item>
+        <item>Dates</item>
+        <item>Elderberries</item>
+        <item>Fruits</item>
+        <item>Grapes</item>
+        <item>Honeydew</item>
+        <item>...</item>
+    </string-array>
+</resources>
